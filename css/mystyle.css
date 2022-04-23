@@ -1,0 +1,131 @@
+@font-face {
+  font-family: Ubuntu-Medium;
+  src: url(../fonts/Ubuntu-Medium.ttf);
+}
+
+@font-face {
+  font-family: SahelBold;
+  src: url(../fonts/Sahel-Bold-FD.ttf);
+}
+
+@font-face {
+  font-family: SahelLight;
+  src: url(../fonts/Sahel-Light-FD.ttf);
+}
+
+form.woocommerce-ordering {
+  font-family : 'SahelBold';
+  cursor : pointer;
+}
+
+
+
+/*
+
+button {
+	font-family : sahel;
+}
+
+a.menu-link {
+	font-family : sahel;
+}
+
+span.onsale {
+	font-family : sahel;
+}
+
+.menu {
+	font-family : sahel;
+}
+
+
+a.add_to_cart_button {
+	font-family : sahel;
+}
+
+span.woocommerce-Price-currencySymbol {
+	font-family : sahel;
+}
+
+div.product {
+	font-family : sahel;
+}
+
+div.widget_shopping_cart_content {
+	font-family : sahel;
+}
+
+
+a.wc-forward {
+	font-family : sahel;
+}
+
+h2.woocommerce-loop-product__title {
+	font-family : sahel;
+}
+
+span.ast-woo-product-category {
+	font-family : sahel;
+}
+
+span.woocommerce-Price-amount amount {
+	font-family : sahel;
+}
+
+
+
+form.woocommerce-cart-form {
+	font-family : sahel;
+}
+
+form.woocommerce-cart-form button {
+	font-family : sahel;
+}
+
+
+div.cart_totals {
+	font-family : sahel;
+}
+
+div.woocommerce-billing-fields__field-wrapper {
+	font-family : sahel;
+}
+
+div.woocommerce-checkout-review-order {
+	font-family : sahel;
+}
+
+
+div.woocommerce-info {
+	font-family : sahel;
+}
+
+
+select {
+	font-family : sahel;
+	cursor : pointer;
+}
+
+div.widget-area {
+	font-family : sahel;
+}
+
+h2.widget-title {
+	font-family : sahel;
+}
+
+@keyframes blurAnim {
+  from {filter: blur(8px);}
+  to {filter: blur(0px);}
+}
+
+section.elementor-top-section {
+	animation-name: blurAnim;
+  animation-duration: 1s;
+}
+
+
+
+
+
+*/
